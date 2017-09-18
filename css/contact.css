@@ -1,0 +1,17 @@
+/* contact start */
+.contact{background:url(../img/contact/contact_point_bg.png); background-color:#F5F5F5; padding-top:7em; padding-bottom:5em; text-align:center; position:relative; background-position:center 69px;}
+.contact_wrap{margin-bottom:30px;}
+.contact_wrap span{font-size:1.4em; font-weight:bold; vertical-align:middle;}
+.contact_wrap em{font-size:1.4em; color:#595757; vertical-align:middle;}
+.main_wrap{margin-bottom:5em;}
+.main_wrap span{font-size:1.4em; font-weight:bold; vertical-align:middle;}
+.main_wrap em{font-size:1.1em; color:#595757; vertical-align:middle;}
+.main_wrap img{margin-right:7px; vertical-align:middle; width:32px;}
+.phone_wrap{width:75%; margin;0 auto; font-size:0.8em; padding-left:23%; min-width:640px;}
+.phone_wrap_list{float:left; width:33%; color:#595757;}
+.phone_wrap_list div{margin-right:7px; float:left;}
+.other-one-list{width:25%; min-width:172px;}
+.other-two-list{width:20%; min-width:141px;}
+.other-three-list{width:50%; min-width:323px; text-align:left;}
+.contact-background{width:100%;}
+.contact-background img{width:100%;}
